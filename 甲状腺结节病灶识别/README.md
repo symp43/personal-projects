@@ -17,3 +17,9 @@
 - 使用 Attention UNet + ResNet34 + SEBlock 作为编码器
 - 支持混合精度训练、early stopping
 - 集成多种损失函数：DiceLoss、StabilizedBCE、Loss Transition 等
+- 支持交叉验证与模型集成评估
+
+## 📈 训练结果图
+
+![结果图](images/result1.png)
+![结果图](images/result2.png)
