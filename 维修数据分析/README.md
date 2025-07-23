@@ -11,7 +11,7 @@
 - 生成多种图表供可视化决策参考
 
 ---
-![流程图](images/流程图.png)
+![模型流程](images/流程.png)
 ![市场占比](images/result1.png)
 ![故障率](images/result2.png)
 ![故障预警](images/result3.png)
