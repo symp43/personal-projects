@@ -1,3 +1,4 @@
+由开源项目制作而成，以下是开源项目介绍：
 <p align="center"><img src="docs_imgs/chatbi-logo.png" alt="SQLBot" width="300" /></p>
 <h3 align="center">基于大模型和 RAG 的智能问数系统</h3>
 
